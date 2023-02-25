@@ -1,0 +1,3546 @@
+[
+    {
+    "name": "Afghanistan",
+    
+    "capital": "Kabul",
+   
+    "population": 40218234,
+   
+    "fr": "Afghanistan",
+    
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+
+    "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Arms_of_the_Islamic_Emirate_of_Afghanistan.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Afghanistan_%28orthographic_projection%29.svg/langfr-800px-Afghanistan_%28orthographic_projection%29.svg.png"
+    },
+    {
+    "name": "Åland Islands",
+    "capital": "Mariehamn",
+   
+    "population": 28875,
+    
+    "fr": "Åland",
+   
+    "flag": "https://flagcdn.com/ax.svg",
+
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Coat_of_arms_of_%C3%85land.svg/800px-Coat_of_arms_of_%C3%85land.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ahvenanmaa_in_Finland.svg/langfr-800px-Ahvenanmaa_in_Finland.svg.png"
+
+    },
+    {
+    "name": "Albania",
+    
+    "capital": "Tirana",
+   
+    "population": 2837743,
+   
+    "fr": "Albanie",
+    
+    "flag": "https://flagcdn.com/al.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Albania.svg/800px-Coat_of_arms_of_Albania.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Europe-Albania.svg/langfr-1024px-Europe-Albania.svg.png"
+
+    
+    },
+    {
+    "name": "Algeria",
+    
+    "capital": "Algiers",
+   
+    "population": 43851043,
+    
+    "fr": "Algérie",
+    
+    "flag": "https://flagcdn.com/dz.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Emblem_of_Algeria.svg/800px-Emblem_of_Algeria.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Algeria_%28centered_orthographic_projection%29.svg/langfr-800px-Algeria_%28centered_orthographic_projection%29.svg.png"
+    
+    },
+    {
+    "name": "American Samoa",
+    
+    "capital": "Pago Pago",
+  
+    "population": 55197,
+   
+    "fr": "Samoa américaines",
+   
+    "flag": "https://flagcdn.com/as.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Seal_of_American_Samoa.svg/800px-Seal_of_American_Samoa.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/American_Samoa_on_the_globe_%28small_islands_magnified%29_%28Polynesia_centered%29.svg/langfr-800px-American_Samoa_on_the_globe_%28small_islands_magnified%29_%28Polynesia_centered%29.svg.png"
+    
+    },
+    {
+    "name": "Andorra",
+    
+    "capital": "Andorra la Vella",
+   
+    "population": 77265,
+    
+    "fr": "Andorre",
+   
+    "flag": "https://flagcdn.com/ad.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Coat_of_Arms_of_Andorra.svg/800px-Coat_of_Arms_of_Andorra.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Location_Andorra_Europe.png/1024px-Location_Andorra_Europe.png"
+    
+    },
+    {
+    "name": "Angola",
+    
+    "capital": "Luanda",
+   
+    "population": 32866268,
+    
+    "fr": "Angola",
+    
+    "flag": "https://flagcdn.com/ao.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Emblem_of_Angola.svg/800px-Emblem_of_Angola.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/89/Angola_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Anguilla",
+   
+    "capital": "The Valley",
+   
+    "population": 13452,
+   
+    "fr": "Anguilla",
+   
+    "flag": "https://flagcdn.com/ai.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Coat_of_arms_of_Anguilla.svg/800px-Coat_of_arms_of_Anguilla.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/d/df/Anguilla_in_United_Kingdom.svg"
+    
+    },
+    {
+    "name": "Antigua and Barbuda",
+    
+    "capital": "Saint John's",
+  
+    "population": 97928,
+    
+    "fr": "Antigua-et-Barbuda",
+   
+    "flag": "https://flagcdn.com/ag.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Antigua_and_Barbuda.svg/800px-Coat_of_arms_of_Antigua_and_Barbuda.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ATG_orthographic.svg/langfr-800px-ATG_orthographic.svg.png"
+    
+    },
+    {
+    "name": "Argentina",
+   
+    "capital": "Buenos Aires",
+   
+    "population": 45376763,
+    
+    "fr": "Argentine",
+    
+    "flag": "https://flagcdn.com/ar.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Coat_of_arms_of_Argentina.svg/800px-Coat_of_arms_of_Argentina.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/ARG_orthographic_%28%2Ball_claims%29.svg/langfr-800px-ARG_orthographic_%28%2Ball_claims%29.svg.png"
+    
+    
+    },
+    {
+    "name": "Armenia",
+    
+    "capital": "Yerevan",
+   
+    "population": 2963234,
+    
+    "fr": "Arménie",
+    
+    "flag": "https://flagcdn.com/am.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Coat_of_arms_of_Armenia.svg/1024px-Coat_of_arms_of_Armenia.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Armenia_%28orthographic_projection%29.svg/langfr-800px-Armenia_%28orthographic_projection%29.svg.png"
+    
+    },
+    {
+    "name": "Aruba",
+   
+    "capital": "Oranjestad",
+  
+    "population": 106766,
+    
+    "fr": "Aruba",
+   
+    "flag": "https://flagcdn.com/aw.svg"
+    },
+    {
+    "name": "Australia",
+    
+    "capital": "Canberra",
+   
+    "population": 25687041,
+    
+    "fr": "Australie",
+    
+    "flag": "https://flagcdn.com/au.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_Aruba.svg/800px-Coat_of_arms_of_Aruba.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/3d/AUS_orthographic.svg"
+    
+    },
+    {
+    "name": "Austria",
+    
+    "capital": "Vienna",
+   
+    "population": 8917205,
+   
+    "fr": "Autriche",
+   
+    "flag": "https://flagcdn.com/at.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/a/a0/Austria_Bundesadler.svg?uselang=fr",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/9/9d/EU-Austria.svg"
+    
+    },
+    {
+    "name": "Azerbaijan",
+    
+    "capital": "Baku",
+   
+    "population": 10110116,
+    
+    "fr": "Azerbaïdjan",
+    
+    "flag": "https://flagcdn.com/az.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Emblem_of_Azerbaijan_%28simmetric%29.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/1/1a/Azerbaijan_%28orthographic_projection%29.png"
+    
+    },
+    {
+    "name": "Bahamas",
+   
+    "capital": "Nassau",
+    
+    "population": 393248,
+   
+    "fr": "Bahamas",
+    
+    "flag": "https://flagcdn.com/bs.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/800px-Coat_of_arms_of_the_Bahamas.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/LocationBahamas.svg/langfr-1920px-LocationBahamas.svg.png"
+    
+    },
+    {
+    "name": "Bahrain",
+    
+    "capital": "Manama",
+    
+    "population": 1701583,
+    
+    "fr": "Bahreïn",
+    
+    "flag": "https://flagcdn.com/bh.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/08/Coat_of_Arms_of_The_Kingdom_of_Bahrain.svg?uselang=fr",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Map_of_Bahrain.svg/langfr-1920px-Map_of_Bahrain.svg.png"
+    
+    },
+    {
+    "name": "Bangladesh",
+    
+    "capital": "Dhaka",
+    
+    "population": 164689383,
+    
+    "fr": "Bangladesh",
+   
+    "flag": "https://flagcdn.com/bd.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/81/National_emblem_of_Bangladesh.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/f2/Bangladesh_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Barbados",
+    
+    "capital": "Bridgetown",
+   
+    "population": 287371,
+    
+    "fr": "Barbade",
+    
+    "flag": "https://flagcdn.com/bb.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Coat_of_arms_of_Barbados_%283%29.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/a1/BRB_orthographic.svg"
+    
+    },
+    {
+    "name": "Belarus",
+    
+    "capital": "Minsk",
+    
+    "population": 9398861,
+   
+    "fr": "Biélorussie",
+   
+    "flag": "https://flagcdn.com/by.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/48/Coat_of_arms_of_Belarus_%282020%E2%80%93present%29.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/af/Europe-Belarus.svg?uselang=fr"
+    
+    },
+    {
+    "name": "Belgium",
+    
+    "capital": "Brussels",
+   
+    "population": 11555997,
+    
+    "fr": "Belgique",
+    
+    "flag": "https://flagcdn.com/be.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Great_coat_of_arms_of_Belgium.svg?uselang=fr",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/6/67/EU-Belgium.svg"
+    
+    },
+    {
+    "name": "Belize",
+    
+    "capital": "Belmopan",
+    
+    "population": 397621,
+    
+    "fr": "Belize",
+    
+    "flag": "https://flagcdn.com/bz.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Coat_of_arms_of_Belize.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/43/BLZ_orthographic.svg"
+    
+    
+    },
+    {
+    "name": "Benin",
+    
+    "capital": "Porto-Novo",
+   
+    "population": 12123198,
+    
+    "fr": "Bénin",
+    
+    "flag": "https://flagcdn.com/bj.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/1/13/Coat_of_arms_of_Benin.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/e/e9/BEN_orthographic.svg"
+    
+    },
+    {
+    "name": "Bermuda",
+   
+    "capital": "Hamilton",
+   
+    "population": 63903,
+    
+    "fr": "Bermudes",
+   
+    "flag": "https://flagcdn.com/bm.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/5/58/Coat_of_arms_of_Bermuda.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/ff/LocationBermuda.png"
+    
+    },
+    {
+    "name": "Bhutan",
+    
+    "capital": "Thimphu",
+    
+    "population": 771612,
+    
+    "fr": "Bhoutan",
+    
+    "flag": "https://flagcdn.com/bt.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Emblem_of_Bhutan.svg/800px-Emblem_of_Bhutan.svg.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/ce/Bhutan_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Bolivia (Plurinational State of)",
+    
+    "capital": "Sucre",
+    
+    "population": 11673029,
+   
+    "fr": "Bolivie",
+    
+    "flag": "https://flagcdn.com/bo.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/b/b6/Escudo_de_Bolivia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/f3/Bolivia_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Bosnia and Herzegovina",
+    
+    "capital": "Sarajevo",
+    
+    "population": 3280815,
+   
+    "fr": "Bosnie-Herzégovine",
+
+    "flag": "https://flagcdn.com/ba.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_arms_of_Bosnia_and_Herzegovina.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/ca/Location_Bosnia-Herzegovina_Europe.png"
+    
+    },
+    {
+    "name": "Botswana",
+    
+    "capital": "Gaborone",
+   
+    "population": 2351625,
+    
+    "fr": "Botswana",
+    
+    "flag": "https://flagcdn.com/bw.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/de/Coat_of_arms_of_Botswana.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/7/79/Botswana_%28centered_orthographic_projection%29.svg"
+    
+    },
+    
+    {
+    "name": "Brazil",
+    
+    "capital": "Brasília",
+   
+    "population": 212559409,
+    
+    "fr": "Brésil",
+    
+    "flag": "https://flagcdn.com/br.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_arms_of_Brazil.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/3b/Brazil_%28orthographic_projection%29.svg"
+    
+    }, 
+    {
+    "name": "Brunei Darussalam",
+    
+    "capital": "Bandar Seri Begawan",
+    
+    "population": 437483,
+   
+    "fr": "Brunei",
+   
+    "flag": "https://flagcdn.com/bn.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/09/Emblem_of_Brunei.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/84/Location_Brunei_ASEAN.svg"
+    
+    },
+    {
+    "name": "Bulgaria",
+   
+    "capital": "Sofia",
+    
+    "population": 6927288,
+    
+    "fr": "Bulgarie",
+   
+    "flag": "https://flagcdn.com/bg.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/24/Coat_of_arms_of_Bulgaria.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/e/e9/EU-Bulgaria.svg"
+    
+    },
+    {
+    "name": "Burkina Faso",
+    
+    "capital": "Ouagadougou",
+    
+    "population": 20903278,
+    
+    "fr": "Burkina Faso",
+   
+    "flag": "https://flagcdn.com/bf.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/96/Coat_of_arms_of_Burkina_Faso.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/86/Burkina_Faso_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Burundi",
+    
+    "capital": "Gitega",
+    
+    "population": 11890781,
+   
+    "fr": "Burundi",
+    
+    "flag": "https://flagcdn.com/bi.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Blason_du_Burundi.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/2/27/Burundi_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Cambodia",
+    
+    "capital": "Phnom Penh",
+    
+    "population": 16718971,
+    
+    "fr": "Cambodge",
+    
+    "flag": "https://flagcdn.com/kh.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Royal_arms_of_Cambodia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/9/91/Location_Cambodia_ASEAN.svg"
+    
+    },
+    {
+    "name": "Cameroon",
+    
+    "capital": "Yaoundé",
+    
+    "population": 26545864,
+    
+    "fr": "Cameroun",
+   
+    "flag": "https://flagcdn.com/cm.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/b/b5/Coat_of_arms_of_Cameroon.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/b4/Cameroon_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Canada",
+   
+    "capital": "Ottawa",
+   
+    "population": 38005238,
+    
+    "fr": "Canada",
+   
+    "flag": "https://flagcdn.com/ca.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Royal_Coat_of_Arms_of_Canada.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/6/67/CAN_orthographic.svg"
+    
+    },
+    {
+    "name": "Cabo Verde",
+   
+    "capital": "Praia",
+    
+    "population": 555988,
+    
+    "fr": "Cap Vert",
+   
+    "flag": "https://flagcdn.com/cv.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Coat_of_arms_of_Cape_Verde.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/47/Cape_Verde_%28orthographic_projection%29.svg"
+    
+    },
+    
+    {
+    "name": "Central African Republic",
+    
+    "capital": "Bangui",
+    
+    "population": 4829764,
+    
+    "fr": "République centrafricaine",
+    
+    "flag": "https://flagcdn.com/cf.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/0a/Coat_of_arms_of_the_Central_African_Republic.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/c4/Central_African_Republic_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Chad",
+   
+    "capital": "N'Djamena",
+   
+    "population": 16425859,
+    
+    "fr": "Tchad",
+    
+    "flag": "https://flagcdn.com/td.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/c1/Coat_of_arms_of_Chad.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/46/Chad_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Chile",
+    
+    "capital": "Santiago",
+   
+    "population": 19116209,
+    
+    "fr": "Chili",
+    
+    "flag": "https://flagcdn.com/cl.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Coat_of_arms_of_Chile_%28c%29.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/cc/CHL_orthographic_%28%2Ball_claims%29.svg"
+    
+    },
+    {
+    "name": "China",
+    
+    "capital": "Beijing",
+    
+    "population": 1402112000,
+   
+    "fr": "Chine",
+    
+    "flag": "https://flagcdn.com/cn.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/a/ab/National_Emblem_of_the_People%27s_Republic_of_China_%282%29.svg?uselang=fr",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/a4/CHN_orthographic.svg"
+    
+    },
+    {
+    "name": "Colombia",
+    
+    "capital": "Bogotá",
+   
+    "population": 50882884,
+    
+    "fr": "Colombie",
+   
+    "flag": "https://flagcdn.com/co.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Coat_of_arms_of_Colombia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/ca/COL_orthographic_%28San_Andr%C3%A9s_and_Providencia_special%29.svg"
+    
+    },
+    {
+    "name": "Comoros",
+    
+    "capital": "Moroni",
+    
+    "population": 869595,
+    
+    "fr": "Comores",
+    
+    "flag": "https://flagcdn.com/km.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/8c/Seal_of_the_Comoros.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/ad/Comoros_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Congo",
+    "capital": "Brazzaville",
+    
+    "population": 5518092,
+   
+    "fr": "Congo",
+   
+    "flag": "https://flagcdn.com/cg.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Coat_of_arms_of_the_Republic_of_the_Congo.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/a7/Republic_of_the_Congo_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Congo (Democratic Republic of the)",
+    
+    "capital": "Kinshasa",
+    
+    "population": 89561404,
+    
+    "fr": "Congo (Rép. dém.)",
+    
+    "flag": "https://flagcdn.com/cd.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/d/d6/Democratic_Republic_of_the_Congo_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Cook Islands",
+    
+    "capital": "Avarua",
+    
+    "population": 18100,
+    
+    "fr": "Îles Cook",
+    
+    "flag": "https://flagcdn.com/ck.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Coat_of_arms_of_the_Cook_Islands.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/5/54/Cook_Islands_on_the_globe_%28small_islands_magnified%29_%28Polynesia_centered%29.svg"
+    
+    },
+    {
+    "name": "Costa Rica",
+   
+    "capital": "San José",
+   
+    "population": 5094114,
+   
+    "fr": "Costa Rica",
+   
+    "flag": "https://flagcdn.com/cr.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/84/Coat_of_arms_of_Costa_Rica.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/89/CRI_orthographic.svg"
+    
+    },
+    {
+    "name": "Croatia",
+    
+    "capital": "Zagreb",
+    
+    "population": 4047200,
+    
+    "fr": "Croatie",
+    
+    "flag": "https://flagcdn.com/hr.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/c9/Coat_of_arms_of_Croatia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/1/15/EU-Croatia.svg"
+    
+    },
+    {
+    "name": "Cuba",
+    
+    "capital": "Havana",
+    
+    "population": 11326616,
+   
+    "fr": "Cuba",
+  
+    "flag": "https://flagcdn.com/cu.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/5/58/Coat_of_arms_of_Cuba.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/0/01/Cuba_%28orthographic_projection%29.svg"
+    
+    },
+    {
+    "name": "Curaçao",
+    
+    "capital": "Willemstad",
+   
+    "population": 155014,
+   
+    "fr": "Curaçao",
+    
+    "flag": "https://flagcdn.com/cw.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/3/33/Coat_of_arms_of_Cura%C3%A7ao.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/2/2b/Curacao_in_its_region.svg"
+    
+    },
+    {
+    "name": "Cyprus",
+    
+    "capital": "Nicosia",
+    
+    "population": 1207361,
+   
+    "fr": "Chypre",
+   
+    "flag": "https://flagcdn.com/cy.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_arms_of_Cyprus_%282006%29.svg?uselang=fr",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/4f/EU-Cyprus.svg"
+    
+    },
+    {
+    "name": "Czech Republic",
+    
+    "capital": "Prague",
+    
+    "population": 10698896,
+    
+    "fr": "République tchèque",
+    
+    "flag": "https://flagcdn.com/cz.svg",
+    
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Coat_of_arms_of_the_Czech_Republic.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/31/EU-Czech_Republic.svg"
+    
+   
+    },
+    {
+    "name": "Denmark",
+    
+    "capital": "Copenhagen",
+  
+    "population": 5831404,
+    
+    "fr": "Danemark",
+    
+    "flag": "https://flagcdn.com/dk.svg",
+
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/c6/National_Coat_of_arms_of_Denmark.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/1/10/Kingdom_of_Denmark_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Djibouti",
+    
+    "capital": "Djibouti",
+    
+    "population": 988002,
+    
+    "fr": "Djibouti",
+   
+    "flag": "https://flagcdn.com/dj.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Emblem_of_Djibouti.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/b7/Djibouti_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Dominica",
+   
+    "capital": "Roseau",
+    
+    "population": 71991,
+    
+    "fr": "Dominique",
+    
+    "flag": "https://flagcdn.com/dm.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/40/Coat_of_arms_of_Dominica.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/2/29/LocationDominica.png"
+    
+   
+     
+    },
+    {
+    "name": "Dominican Republic",
+    
+    "capital": "Santo Domingo",
+    
+    "population": 10847904,
+  
+  
+    "fr": "République dominicaine",
+ 
+    "flag": "https://flagcdn.com/do.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/26/Coat_of_arms_of_the_Dominican_Republic.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/9/95/Dominican_Republic_%28orthographic_projection%29.svg"
+    
+   
+ 
+    },
+    {
+    "name": "Ecuador",
+
+    "fr": "Equateur",
+    
+    "capital": "Quito",
+      
+    "population": 17643060,
+  
+    "flag": "https://flagcdn.com/ec.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Coat_of_arms_of_Ecuador.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/e/e3/ECU_orthographic.svg"
+    
+   
+ 
+    },
+    {
+    "name": "Egypt",
+
+    "capital": "Cairo",
+ 
+    "population": 102334403,
+  
+    "fr": "Égypte",
+ 
+    "flag": "https://flagcdn.com/eg.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Coat_of_arms_of_Egypt_%28Official%29.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/a1/EGY_orthographic.svg"
+    
+   
+    },
+    {
+    "name": "El Salvador",
+ 
+    "capital": "San Salvador",
+    
+    "population": 6486201,
+     
+    "fr": "Salvador",
+    
+    "flag": "https://flagcdn.com/sv.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Coat_of_arms_of_El_Salvador.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/e/e3/El_Salvador_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Equatorial Guinea",
+     
+    "capital": "Malabo",
+        
+    "population": 1402985,
+         
+    "fr": "Guinée-Équatoriale",
+    
+    "flag": "https://flagcdn.com/gq.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Coat_of_arms_of_Equatorial_Guinea.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/e/e2/Location_Equatorial_Guinea_AU_Africa.svg"
+    
+   
+    },
+    {
+    "name": "Eritrea",
+   
+    "capital": "Asmara",
+  
+    "population": 5352000,
+   
+    "fr": "Érythrée",
+   
+    "flag": "https://flagcdn.com/er.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/7/70/Emblem_of_Eritrea_%28sinople_argent_naturel_azur%29.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/43/Eritrea_%28Africa_orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Estonia",
+ 
+    "capital": "Tallinn",
+    "population": 1331057,
+    
+    "fr": "Estonie",
+   
+    "flag": "https://flagcdn.com/ee.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/2b/Coat_of_arms_of_Estonia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/a2/EU-Estonia.svg"
+    
+   
+    },
+    {
+    "name": "Ethiopia",
+     
+    "capital": "Addis Ababa",
+      
+    "population": 114963583,
+     
+    "fr": "Éthiopie",
+    
+    "flag": "https://flagcdn.com/et.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Emblem_of_Ethiopia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/d/dd/Ethiopia_%28Africa_orthographic_projection%29.svg"
+    
+   
+    },
+  
+    {
+    "name": "Faroe Islands",
+     
+    "capital": "Tórshavn",
+     
+    "population": 48865,
+     
+    "fr": "Îles Féroé",
+   
+    "flag": "https://flagcdn.com/fo.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/9b/Coat_of_arms_of_the_Faroe_Islands.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/c6/LocationFaroeIslands.png"
+    
+   
+    },
+    {
+    "name": "Fiji",
+   
+    "capital": "Suva",
+      
+    "population": 896444,
+  
+    "fr": "Fidji",
+    
+    "flag": "https://flagcdn.com/fj.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Coat_of_arms_of_Fiji.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/f6/Fiji_on_the_globe_%28small_islands_magnified%29_%28Polynesia_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Finland",
+      
+    "capital": "Helsinki",
+         
+    "population": 5530719,
+      
+    "fr": "Finlande",
+   
+    "flag": "https://flagcdn.com/fi.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Coat_of_arms_of_Finland.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/6/6e/EU-Finland.svg"
+    
+   
+    },
+    {
+    "name": "France",
+     
+    "capital": "Paris",
+       
+    "population": 67391582,
+     
+    "fr": "France",
+    
+    "flag": "https://flagcdn.com/fr.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Armoiries_r%C3%A9publique_fran%C3%A7aise.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/a4/EU-France_%28orthographic_projection%29.svg"
+    
+   
+    },
+    
+    {
+    "name": "Gabon",
+      
+    "capital": "Libreville",
+        
+    "population": 2225728,
+          
+    "fr": "Gabon",
+  
+    "flag": "https://flagcdn.com/ga.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/7/77/Coat_of_arms_of_Gabon.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/bf/Gabon_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Gambia",
+      
+    "capital": "Banjul",
+       
+    "population": 2416664,
+      
+    "fr": "Gambie",
+    
+    "flag": "https://flagcdn.com/gm.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_arms_of_The_Gambia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/1/16/Gambia_%28orthographic_projection_with_inset%29.svg"
+    
+   
+    },
+    {
+    "name": "Georgia",
+     
+    "capital": "Tbilisi",
+       
+    "population": 3714000,
+   
+    "fr": "Géorgie",
+   
+    "flag": "https://flagcdn.com/ge.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/94/Greater_coat_of_arms_of_Georgia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/6/67/Georgia_%28orthographic_projection_with_inset%29.svg"
+    
+   
+    },
+    {
+    "name": "Germany",
+      
+    "capital": "Berlin",
+        
+    "population": 83240525,
+   
+    "fr": "Allemagne",
+    
+    "flag": "https://flagcdn.com/de.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_arms_of_Germany.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/af/EU-Germany_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Ghana",
+      
+    "capital": "Accra",
+           
+    "population": 31072945,
+          
+    "fr": "Ghana",
+    
+    "flag": "https://flagcdn.com/gh.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/5/59/Coat_of_arms_of_Ghana.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/30/Ghana_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Greece",
+     
+    
+    "population": 10715549,
+     
+    "fr": "Grèce",
+    
+    "flag": "https://flagcdn.com/gr.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Coat_of_arms_of_Greece.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/2/21/EU-Greece.svg"
+    
+   
+    },
+    
+    {
+    "name": "Grenada",
+      
+    "capital": "St. George's",
+      
+    "population": 112519,
+        
+    "fr": "Grenade",
+    
+    "flag": "https://flagcdn.com/gd.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/03/Coat_of_arms_of_Grenada.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/6/6e/Grenada_on_the_globe_%28Americas_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Guam",
+      
+    "capital": "Hagåtña",
+       
+    "population": 168783,
+        
+    "fr": "Guam",
+    
+    "flag": "https://flagcdn.com/gu.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/2b/Seal_of_Guam.svg?uselang=fr",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/c5/Guam_on_the_globe_%28Southeast_Asia_centered%29_%28small_islands_magnified%29.svg"
+    
+     
+    },
+    {
+    "name": "Guatemala",
+   
+    "capital": "Guatemala City",
+           
+    "population": 16858333,
+            
+    "fr": "Guatemala",
+  
+    "flag": "https://flagcdn.com/gt.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/1/15/Coat_of_arms_of_Guatemala.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/7/70/Guatemala_%28orthographic_projection%29.svg"
+    
+   
+    },
+    
+    {
+    "name": "Guinea",
+      
+    "capital": "Conakry",
+     
+    "population": 13132792,
+     
+    "fr": "Guinée",
+    
+    "flag": "https://flagcdn.com/gn.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/08/Coat_of_arms_of_Guinea-new.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/e/e4/Guinea_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Guinea-Bissau",
+      
+    "capital": "Bissau",
+       
+    "population": 1967998,
+      
+    "fr": "Guinée-Bissau",
+   
+    "flag": "https://flagcdn.com/gw.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/06/Emblem_of_Guinea-Bissau.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/fe/Location_Guinea_Bissau_AU_Africa.svg"
+    
+   
+    },
+    {
+    "name": "Guyana",
+      
+    "capital": "Georgetown",
+        
+    "population": 786559,
+         
+    "fr": "Guyana",
+   
+    "flag": "https://flagcdn.com/gy.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/23/Coat_of_arms_of_Guyana.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/e/e0/Orthographic_projection_of_Guyana_with_Venezuela%27s_and_Suriname%27s_reclamations.svg"
+    
+   
+    },
+    {
+    "name": "Haiti",
+     
+    "capital": "Port-au-Prince",
+        
+    "population": 11402533,
+         
+    "fr": "Haïti",
+    
+    "flag": "https://flagcdn.com/ht.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/7/75/Coat_of_arms_of_Haiti.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/fe/Haiti_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Vatican City",
+    
+    "capital": "Vatican City",
+       
+    "population": 451,
+       
+    "fr": "Vatican",
+    
+    "flag": "https://flagcdn.com/va.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Coat_of_arms_of_the_Vatican_City.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/89/Location_of_the_Vatican_City_in_Europe.svg"
+    
+   
+    },
+    {
+    "name": "Honduras",
+     
+    "capital": "Tegucigalpa",
+       
+    "population": 9904608,
+        
+    "fr": "Honduras",
+    
+    "flag": "https://flagcdn.com/hn.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/81/Coat_of_arms_of_Honduras.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/3a/Honduras_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Hungary",
+      
+    "capital": "Budapest",
+        
+    "population": 9749763,
+        
+    "fr": "Hongrie",
+   
+    "flag": "https://flagcdn.com/hu.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Coat_of_arms_of_Hungary_%28oak_and_olive_branches%29.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/6/60/EU-Hungary.svg"
+    
+   
+    },
+    {
+    "name": "Iceland",
+     
+    "capital": "Reykjavík",
+       
+    "population": 366425,
+         
+    "fr": "Islande",
+   
+    "flag": "https://flagcdn.com/is.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/90/Coat_of_arms_of_Iceland.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/7/7a/Iceland_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "India",
+      
+    "capital": "New Delhi",
+          
+    "population": 1380004385,
+          
+    "fr": "Inde",
+    
+    "flag": "https://flagcdn.com/in.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/bb/India_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Indonesia",
+    
+    "capital": "Jakarta",
+        
+    "population": 273523621,
+        
+    "fr": "Indonésie",
+    
+    "flag": "https://flagcdn.com/id.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/90/National_emblem_of_Indonesia_Garuda_Pancasila.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/0/05/Indonesia_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Ivory Coast",
+      
+    "capital": "Yamoussoukro",
+           
+    "population": 26378275,
+          
+    "fr": "Côte d'Ivoire",
+   
+    "flag": "https://flagcdn.com/ci.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/95/Coat_of_arms_of_Ivory_Coast.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/9/9b/C%C3%B4te_d%27Ivoire_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Iran (Islamic Republic of)",
+      
+    "capital": "Tehran",
+          
+    "population": 83992953,
+           
+    "fr": "Iran",
+    
+    "flag": "https://flagcdn.com/ir.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Emblem_of_Iran.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/a8/Iran_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Iraq",
+     
+    "capital": "Baghdad",
+    
+    "population": 40222503,
+        
+    "fr": "Irak",
+    
+    "flag": "https://flagcdn.com/iq.svg",
+
+    "embleme" :"https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_arms_of_Iraq.svg",
+
+    "position": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Iraq_%28orthographic%29.svg"
+    },
+    {
+    "name": "Ireland",
+     
+    "capital": "Dublin",
+       
+    "population": 4994724,
+        
+    "fr": "Irlande",
+    
+    "flag": "https://flagcdn.com/ie.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Coat_of_arms_of_Ireland.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/38/EU-Ireland_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Israel",
+     
+    "capital": "Jerusalem",
+     
+    "population": 9216900,
+      
+    "fr": "Israël",
+    
+    "flag": "https://flagcdn.com/il.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Emblem_of_Israel.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/b6/Israel_%28orthographic_projection%29_with_occupied_territories.svg"
+    
+   
+    },
+    {
+    "name": "Italy",
+      
+    "capital": "Rome",
+       
+    "population": 59554023,
+         
+    "fr": "Italie",
+   
+    "flag": "https://flagcdn.com/it.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/00/Emblem_of_Italy.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/cd/EU-Italy_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Jamaica",
+     
+    "capital": "Kingston",
+        
+    "fr": "Jamaïque",
+    
+    "flag": "https://flagcdn.com/jm.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/5/52/Coat_of_arms_of_Jamaica.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/e/eb/Jamaica_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Japan",
+     
+    "capital": "Tokyo",
+      
+    "population": 125836021,
+    
+    "fr": "Japon",
+    
+    "flag": "https://flagcdn.com/jp.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Japanese_Imperial_Seal.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/6/62/Japan_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Jordan",
+     
+    "capital": "Amman",
+          
+    "population": 10203140,
+         
+    "fr": "Jordanie",
+   
+    "flag": "https://flagcdn.com/jo.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Coat_of_arms_of_Jordan.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/b2/Jordan_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Kazakhstan",
+    
+    "capital": "Nur-Sultan",
+      
+    "population": 18754440,
+        
+    "fr": "Kazakhstan",
+    
+    "flag": "https://flagcdn.com/kz.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Emblem_of_Kazakhstan_latin.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/3e/Kazakhstan_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Kenya",
+      
+    "capital": "Nairobi",
+         
+    "population": 53771300,
+        
+    "fr": "Kenya",
+    
+    "flag": "https://flagcdn.com/ke.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Coat_of_arms_of_Kenya_%28Official%29.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/a5/Kenya_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Kiribati",
+      
+    "capital": "South Tarawa",
+     
+    "population": 119446,
+      
+    "fr": "Kiribati",
+    
+    "flag": "https://flagcdn.com/ki.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/6/66/Coat_of_arms_of_Kiribati.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/d/d9/Kiribati_on_the_globe_%28Polynesia_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Kuwait",
+      
+    "capital": "Kuwait City",
+       
+    "population": 4270563,
+        
+    "fr": "Koweït",
+    
+    "flag": "https://flagcdn.com/kw.svg",
+
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Emblem_of_Kuwait.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/41/KWT_orthographic.svg"
+    
+   
+    },
+    {
+    "name": "Kyrgyzstan",
+      
+    "capital": "Bishkek",
+       
+    "population": 6591600,
+          
+    "fr": "Kirghizistan",
+    
+    "flag": "https://flagcdn.com/kg.svg",
+
+    "embleme" : "https://upload.wikimedia.org/wikipedia/commons/f/f1/Emblem_of_Kyrgyzstan.svg",
+
+    "position": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kyrgyzstan_%28orthographic_projection%29.svg"
+    },
+    {
+    "name": "Lao People's Democratic Republic",
+      
+    "capital": "Vientiane",
+         
+    "population": 7275556,
+         
+    "fr": "Laos",
+    
+    "flag": "https://flagcdn.com/la.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/04/Emblem_of_Laos.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/bc/Laos_%28orthographic_projection%29.svg"
+    
+      
+   
+    },
+    {
+    "name": "Latvia",
+      
+    "capital": "Riga",
+          
+    "population": 1901548,
+           
+    "fr": "Lettonie",
+    
+    "flag": "https://flagcdn.com/lv.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/45/Coat_of_arms_of_Latvia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/32/EU-Latvia.svg"
+    
+   
+    },
+    {
+    "name": "Lebanon",
+     
+    "capital": "Beirut",
+  
+    "population": 6825442,
+    
+    "fr": "Liban",
+    
+    "flag": "https://flagcdn.com/lb.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/98/Coat_of_arms_of_Lebanon.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/9/96/Lebanon_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Lesotho",
+      
+    "capital": "Maseru",
+         
+    "population": 2142252,
+         
+    "fr": "Lesotho",
+ 
+    "flag": "https://flagcdn.com/ls.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/42/Coat_of_arms_of_Lesotho.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/f1/Lesotho_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Liberia",
+     
+    "capital": "Monrovia",
+      
+    "population": 5057677,
+          
+    "fr": "Liberia",
+
+    "flag": "https://flagcdn.com/lr.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/6/64/Coat_of_arms_of_Liberia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/9/91/Liberia_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Libya",
+       
+    "capital": "Tripoli",
+     
+    "population": 6871287,
+     
+    "fr": "Libye",
+ 
+    "flag": "https://flagcdn.com/ly.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/08/Seal_of_the_Government_of_National_Unity_%28Libya%29.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/0/07/Libya_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Liechtenstein",
+ 
+    "capital": "Vaduz",
+   
+    "population": 38137,
+     
+    "fr": "Liechtenstein",
+   
+   
+    "flag": "https://flagcdn.com/li.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/1/18/Staatswappen-Liechtensteins.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/36/Location_Liechtenstein_Europe.png"
+    
+   
+    },
+    {
+    "name": "Lithuania",
+     
+    "capital": "Vilnius",
+   
+    "population": 2794700,
+  
+    "fr": "Lituanie",
+  
+    "flag": "https://flagcdn.com/lt.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Coat_of_arms_of_Lithuania.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/e/ec/EU-Lithuania.svg"
+    
+   
+          
+    },
+    {
+    "name": "Luxembourg",
+   
+    "capital": "Luxembourg",
+
+    "population": 632275,
+         
+    "fr": "Luxembourg",
+  
+    "flag": "https://flagcdn.com/lu.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/6/6b/Greater_coat_of_arms_of_the_grand-duchy_of_Luxembourg.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/c3/EU-Luxembourg.svg"
+    
+   
+    },
+    {
+  
+    "name": "North Macedonia",
+      
+    "capital": "Skopje",
+ 
+    "population": 2083380,
+        
+    "fr": "Macédoine du nord",
+    
+    "flag": "https://flagcdn.com/mk.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Coat_of_arms_of_North_Macedonia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/35/Location_Macedonia_Europe.png"
+    
+   
+    },
+    {
+    "name": "Madagascar",
+       
+    "capital": "Antananarivo",
+    
+    "population": 27691019,
+       
+    "fr": "Madagascar",
+  
+    "flag": "https://flagcdn.com/mg.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/9b/Seal_of_Madagascar.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/2/2f/Madagascar_%28centered_orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Malawi",
+     
+    "capital": "Lilongwe",
+ 
+    "population": 19129955,
+    
+    "fr": "Malawi",
+    
+    "flag": "https://flagcdn.com/mw.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/a/ab/Coat_of_arms_of_Malawi.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/1/1a/Malawi_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Malaysia",
+   
+    "capital": "Kuala Lumpur",
+  
+    "population": 32365998,
+   
+    "fr": "Malaisie",
+   
+    "flag": "https://flagcdn.com/my.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/26/Coat_of_arms_of_Malaysia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/2/23/Malaysia_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Maldives",
+    
+    "capital": "Malé",
+  
+    "population": 540542,
+      
+    "fr": "Maldives",
+  
+    "flag": "https://flagcdn.com/mv.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/29/Emblem_of_Maldives.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/4b/Maldives_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Mali",
+   
+    "capital": "Bamako",
+  
+    "population": 20250834,
+     
+    "fr": "Mali",
+
+    "flag": "https://flagcdn.com/ml.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Coat_of_arms_of_Mali.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/8b/Mali_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Malta",
+ 
+    "capital": "Valletta",
+  
+    "population": 525285,
+   
+    "fr": "Malte",
+   
+    "flag": "https://flagcdn.com/mt.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Coat_of_arms_of_Malta.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/6/63/EU-Malta.svg"
+    
+   
+    },
+    {
+    "name": "Marshall Islands",
+   
+    "capital": "Majuro",
+     
+    "population": 59194,
+    
+    "fr": "Îles Marshall",
+  
+    "flag": "https://flagcdn.com/mh.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/86/Seal_of_the_Marshall_Islands.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/1/18/Marshall_Islands_on_the_globe_%28small_islands_magnified%29_%28Polynesia_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Mauritania",
+    
+    "capital": "Nouakchott",
+  
+    "population": 4649660,
+    
+    "fr": "Mauritanie",
+   
+    "flag": "https://flagcdn.com/mr.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/01/Seal_of_Mauritania_%282018%29.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/ac/Mauritania_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Mauritius",
+  
+    "capital": "Port Louis",
+
+    "population": 1265740,
+     
+    "fr": "Île Maurice",
+    
+    "flag": "https://flagcdn.com/mu.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Coat_of_arms_of_Mauritius.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/4b/Mauritius_%28orthographic_projection_with_inset%29.svg"
+    
+   
+    },
+    
+    {
+    "name": "Mexico",
+ 
+    "capital": "Mexico City",
+   
+    "population": 128932753,
+     
+    "fr": "Mexique",
+ 
+    "flag": "https://flagcdn.com/mx.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Coat_of_arms_of_Mexico.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/0/06/MEX_orthographic.svg"
+    
+   
+    },
+    {
+    "name": "Moldova (Republic of)",
+
+    "capital": "Chișinău",
+  
+    "population": 2617820,
+           
+    "fr": "Moldavie",
+   
+    "flag": "https://flagcdn.com/md.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/a/a3/Coat_of_arms_of_Moldova.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/fe/Location_Moldova_Europe.png"
+    
+   
+    },
+    {
+    "name": "Monaco",
+
+    "capital": "Monaco",
+  
+    "population": 39244,
+
+    "fr": "Monaco",
+  
+    "flag": "https://flagcdn.com/mc.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Coat_of_arms_of_Monaco.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/f5/Location_Monaco_Europe.png"
+    
+   
+    },
+    {
+    "name": "Mongolia",
+    
+    "capital": "Ulan Bator",
+    
+    "population": 3278292,
+   
+    "fr": "Mongolie",
+ 
+    "flag": "https://flagcdn.com/mn.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/3/3e/State_emblem_of_Mongolia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Montenegro",
+
+    "capital": "Podgorica",
+ 
+    "population": 621718,
+      
+    "fr": "Monténégro",
+  
+    "flag": "https://flagcdn.com/me.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/23/Coat_of_arms_of_Montenegro.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/b0/Europe-Montenegro.svg"
+    
+   
+    },
+    {
+ 
+    "name": "Morocco",
+    
+    "capital": "Rabat",
+      
+    "population": 36910558,
+           
+    "fr": "Maroc",
+   
+    "flag": "https://flagcdn.com/ma.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Coat_of_arms_of_Morocco.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/7/78/Morocco_%28orthographic_projection%2C_WS_claimed%29.svg"
+    
+   
+    },
+    {
+    "name": "Mozambique",
+     
+    "capital": "Maputo",
+          
+    "population": 31255435,
+        
+    "fr": "Mozambique",
+   
+    "flag": "https://flagcdn.com/mz.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/1/14/Emblem_of_Mozambique.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/84/Mozambique_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Myanmar",
+   
+    "capital": "Naypyidaw",
+  
+    "population": 54409794,
+   
+    "fr": "Myanmar",
+  
+    "flag": "https://flagcdn.com/mm.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/89/State_seal_of_Myanmar.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/cb/Myanmar_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Namibia",
+     
+    "capital": "Windhoek",
+       
+    "population": 2540916,
+         
+    "fr": "Namibie",
+    
+    "flag": "https://flagcdn.com/na.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Coat_of_arms_of_Namibia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/d/d4/Namibia_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Nauru",
+      
+    "capital": "Yaren",
+      
+    "population": 10834,
+   
+    "fr": "Nauru",
+   
+    "flag": "https://flagcdn.com/nr.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/df/Coat_of_arms_of_Nauru.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/2/25/Nauru_on_the_globe_%28Polynesia_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Nepal",
+      
+    "capital": "Kathmandu",
+          
+    "population": 29136808,
+         
+    "fr": "Népal",
+    
+    "flag": "https://flagcdn.com/np.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/23/Emblem_of_Nepal.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/d/d4/Nepal_%28orthographic_projection%29.svg"
+    
+   
+  
+    },
+    {
+    "name": "Netherlands",
+    
+    "capital": "Amsterdam",
+         
+    "population": 17441139,
+         
+    "fr": "Pays-Bas",
+   
+    "flag": "https://flagcdn.com/nl.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/8f/State_coat_of_arms_of_the_Netherlands.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/41/Kingdom_of_the_Netherlands_%28orthographic_projection%29.svg"
+    
+   
+    },
+   
+    {
+    "name": "New Zealand",
+      
+    "capital": "Wellington",
+    
+    "population": 5084300,
+      
+    "fr": "Nouvelle-Zélande",
+   
+    "flag": "https://flagcdn.com/nz.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Coat_of_arms_of_New_Zealand.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/2/29/NZL_orthographic_NaturalEarth.svg"
+    
+   
+    },
+    {
+    "name": "Nicaragua",
+     
+    "capital": "Managua",
+
+    "population": 6624554,
+     
+    "fr": "Nicaragua",
+    
+    "flag": "https://flagcdn.com/ni.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Coat_of_arms_of_Nicaragua.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/38/Nicaragua_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Niger",
+      
+    "capital": "Niamey",
+          
+    "population": 24206636,
+         
+    "fr": "Niger",
+   
+    "flag": "https://flagcdn.com/ne.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/03/Coat_of_arms_of_Niger.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/88/Niger_%28orthographic_projection%29.svg"
+    
+   
+            
+    },
+    {
+    "name": "Nigeria",
+      
+    "capital": "Abuja",
+       
+    "population": 206139587,
+          
+    "fr": "Nigéria",
+   
+    "flag": "https://flagcdn.com/ng.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Coat_of_arms_of_Nigeria.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/4e/Nigeria_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Niue",
+     
+    "capital": "Alofi",
+        
+    "population": 1470,
+          
+    "fr": "Niue",
+    
+    "flag": "https://flagcdn.com/nu.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Public_Seal_of_Niue.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/af/Niue_on_the_globe_%28Polynesia_centered%29.svg"
+    
+   
+    },
+   
+    {
+    "name": "Korea (Democratic People's Republic of)",
+     
+    "capital": "Pyongyang",
+           
+    "population": 25778815,
+         
+    "fr": "Corée du Nord",
+    
+    "flag": "https://flagcdn.com/kp.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/3/3c/Emblem_of_North_Korea.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/b2/Democratic_People%27s_Republic_of_Korea_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Northern Mariana Islands",
+    
+    "capital": "Saipan",
+    
+    "population": 57557,
+     
+    "fr": "Îles Mariannes du Nord",
+   
+    "flag": "https://flagcdn.com/mp.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Seal_of_the_Northern_Mariana_Islands_%28alternate%29.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/5/5a/Northern_Mariana_Islands_on_the_globe_%28Southeast_Asia_centered%29_%28small_islands_magnified%29.svg"
+    
+   
+      
+    },
+    {
+    "name": "Norway",
+    
+    "capital": "Oslo",
+      
+    "population": 5379475,
+    
+    "fr": "Norvège",
+    
+    "flag": "https://flagcdn.com/no.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/95/Coat_of_arms_of_Norway.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/cb/Europe-Norway_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Oman",
+    
+    "capital": "Muscat",
+     
+    "population": 5106622,
+       
+    "fr": "Oman",
+   
+    "flag": "https://flagcdn.com/om.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/7/7b/National_emblem_of_Oman.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/8d/Oman_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Pakistan",
+      
+    "capital": "Islamabad",
+          
+    "population": 220892331,
+           
+    "fr": "Pakistan",
+   
+    "flag": "https://flagcdn.com/pk.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/ef/State_emblem_of_Pakistan.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/b6/Pakistan_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Palau",
+       
+    "capital": "Ngerulmud",
+         
+    "population": 18092,
+           
+    "fr": "Palaos",
+    
+    "flag": "https://flagcdn.com/pw.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Seal_of_Palau.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/5/57/Palau_on_the_globe_%28Southeast_Asia_centered%29_%28small_islands_magnified%29.svg"
+    
+   
+    },
+    {
+    "name": "Palestine, State of",
+      
+    "capital": "Ramallah",
+       
+    "population": 4803269,
+      
+    "fr": "Palestine",
+    
+    "flag": "https://flagcdn.com/ps.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Coat_of_arms_of_Palestine.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/ad/State_of_Palestine_%28orthographic_projection%29.svgs"
+    
+   
+    },
+    {
+    "name": "Panama",
+       
+    "capital": "Panama City",
+     
+    "population": 4314768,
+       
+    "fr": "Panama",
+   
+    "flag": "https://flagcdn.com/pa.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/3/30/Coat_of_arms_of_Panama.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/e/e1/Panama_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Papua New Guinea",
+      
+    "capital": "Port Moresby",
+        
+    "population": 8947027,
+        
+    "fr": "Papouasie-Nouvelle-Guinée",
+    
+    "flag": "https://flagcdn.com/pg.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/b/b4/National_emblem_of_Papua_New_Guinea.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/ff/PNG_orthographic.svg"
+    
+   
+    },
+    {
+    "name": "Paraguay",
+      
+    "capital": "Asunción",
+       
+    "population": 7132530,
+    
+    "fr": "Paraguay",
+   
+    "flag": "https://flagcdn.com/py.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/7/70/Coat_of_arms_of_Paraguay.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/80/Paraguay_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Peru",
+    
+    "capital": "Lima",
+      
+    "population": 32971846,
+    
+    "fr": "Pérou",
+    
+    "flag": "https://flagcdn.com/pe.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/49/Escudo_de_armas_del_Per%C3%BA.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/84/Peru_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Philippines",
+      
+    "capital": "Manila",
+       
+    "population": 109581085,
+      
+    "fr": "Philippines",
+   
+    "flag": "https://flagcdn.com/ph.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/84/Coat_of_arms_of_the_Philippines.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/6/6d/PHL_orthographic.svg"
+    
+   
+    },
+    {
+    "name": "Pitcairn",
+      
+    "capital": "Adamstown",
+       
+    "population": 56,
+          
+    "fr": "Îles Pitcairn",
+   
+    "flag": "https://flagcdn.com/pn.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Coat_of_arms_of_the_Pitcairn_Islands.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/37/Pitcairn_Islands_on_the_globe_%28French_Polynesia_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Poland",
+       
+    "capital": "Warsaw",
+      
+    "population": 37950802,
+          
+    "fr": "Pologne",
+   
+    "flag": "https://flagcdn.com/pl.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/c9/Herb_Polski.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/5/57/EU-Poland_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Portugal",
+     
+    "capital": "Lisbon",
+      
+    "population": 10305564,
+        
+    "fr": "Portugal",
+    
+    "flag": "https://flagcdn.com/pt.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/1/15/Coat_of_arms_of_Portugal.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/a5/EU-Portugal_%28orthographic_projection%29.svg"
+    
+   
+    },
+    
+    {
+    "name": "Qatar",
+      
+    "capital": "Doha",
+      
+    "population": 2881060,
+           
+    "fr": "Qatar",
+    
+    "flag": "https://flagcdn.com/qa.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/d8/New_Emblem_of_Qatar.png",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/d/d4/QAT_orthographic.svg"
+    
+   
+    },
+    {
+    "name": "Republic of Kosovo",
+     
+    "capital": "Pristina",
+      
+    "population": 1775378,
+     
+    "fr": "Kosovo",
+   
+    "flag": "https://flagcdn.com/xk.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/d7/Emblem_of_the_Republic_of_Kosovo.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/1/18/Europe-Republic_of_Kosovo.svg"
+    
+   
+    },
+    {
+    "name": "Romania",
+     
+    "capital": "Bucharest",
+        
+    "population": 19286123,
+        
+    "fr": "Roumanie",
+    
+    "flag": "https://flagcdn.com/ro.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/7/70/Coat_of_arms_of_Romania.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/c5/EU-Romania_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Russian Federation",
+     
+    "capital": "Moscow",
+      
+    "population": 144104080,
+    
+    "fr": "Russie",
+    
+    "flag": "https://flagcdn.com/ru.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Coat_of_Arms_of_the_Russian_Federation.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/8b/Russian_Federation_%28orthographic_projection%29_-_Annexed_Territories_disputed.svg"
+    
+   
+    },
+    {
+    "name": "Rwanda",
+      
+    "capital": "Kigali",
+           
+    "population": 12952209,
+           
+    "fr": "Rwanda",
+   
+    "flag": "https://flagcdn.com/rw.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/1/17/Coat_of_arms_of_Rwanda.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/d/d7/Rwanda_on_the_globe_%28Zambia_centered%29.svg"
+    
+   
+    },
+   
+    {
+    "name": "Saint Kitts and Nevis",
+    
+    "capital": "Basseterre",
+       
+    "population": 53192,
+        
+    "fr": "Saint-Christophe-et-Niévès",
+   
+    "flag": "https://flagcdn.com/kn.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Coat_of_Arms_of_Saint_Kitts_and_Nevis.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/5/5d/KNA_orthographic.svg"
+    
+   
+    },
+    {
+    "name": "Saint Lucia",
+
+    "capital": "Castries",
+    
+    "population": 183629,
+     
+    "fr": "Saint-Lucie",
+    
+    "flag": "https://flagcdn.com/lc.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/9b/Coat_of_arms_of_Saint_Lucia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Lucia_on_the_globe_%28Americas_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Saint Vincent and the Grenadines",
+      
+    "capital": "Kingstown",
+          
+    "population": 110947,
+        
+    "fr": "Saint-Vincent-et-les-Grenadines",
+    
+    "flag": "https://flagcdn.com/vc.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/7/70/VCT_orthographic.svg"
+    
+   
+    },
+    {
+    "name": "Samoa",
+       
+    "capital": "Apia",
+     
+    "population": 198410,
+        
+    "fr": "Samoa",
+   
+    "flag": "https://flagcdn.com/ws.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Coat_of_arms_of_Samoa.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/7/74/Samoa_on_the_globe_%28Polynesia_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "San Marino",
+      
+    "capital": "City of San Marino",
+          
+    "population": 33938,
+         
+    "fr": "Saint-Marin",
+    
+    "flag": "https://flagcdn.com/sm.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_San_Marino.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/7/79/Location_San_Marino_Europe.png"
+    
+   
+    },
+    {
+    "name": "Sao Tome and Principe",
+      
+    "capital": "São Tomé",
+           
+    "population": 219161,
+           
+    "fr": "Sao Tomé-et-Principe",
+   
+    "flag": "https://flagcdn.com/st.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/96/Coat_of_arms_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/35/Location_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_AU_Africa.svg"
+    
+   
+    },
+    {
+    "name": "Saudi Arabia",
+      
+    "capital": "Riyadh",
+        
+    "population": 34813867,
+    
+    "fr": "Arabie Saoudite",
+   
+    "flag": "https://flagcdn.com/sa.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/99/Emblem_of_Saudi_Arabia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/47/Saudi_Arabia_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Senegal",
+       
+    "capital": "Dakar",
+          
+    "population": 16743930,
+         
+    "fr": "Sénégal",
+    
+    "flag": "https://flagcdn.com/sn.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Coat_of_arms_of_Senegal.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/3c/Senegal_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Serbia",
+       
+    "capital": "Belgrade",
+         
+    "population": 6908224,
+           
+    "fr": "Serbie",
+    
+    "flag": "https://flagcdn.com/rs.svg",
+       
+    "embleme":"https://fr.wikipedia.org/wiki/Serbie#/media/Fichier:Coat_of_arms_of_Serbia.svg",
+
+    "position" :"https://en.wikipedia.org/wiki/Serbia#/media/File:Serbia_(orthographic_projection).svg"
+    
+   
+    },
+    {
+    "name": "Seychelles",
+     
+    "capital": "Victoria",
+     
+    "population": 98462,
+     
+    "fr": "Seychelles",
+    
+    "flag": "https://flagcdn.com/sc.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Coat_of_arms_of_Seychelles.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/bd/Location_Seychelles_AU_Africa.svg"
+    
+   
+    },
+    {
+    "name": "Sierra Leone",
+      
+    "capital": "Freetown",
+        
+    "population": 7976985,
+         
+    "fr": "Sierra Leone",
+    
+    "flag": "https://flagcdn.com/sl.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Coat_of_arms_of_Sierra_Leone.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/38/Sierra_Leone_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Singapore",
+      
+    "capital": "Singapore",
+     
+    "population": 5685807,
+         
+    "fr": "Singapour",
+   
+    "flag": "https://flagcdn.com/sg.svg",
+       
+    "embleme":"https://fr.wikipedia.org/wiki/Singapour#/media/Fichier:Coat_of_arms_of_Singapore_(Improved).svg",
+
+    "position" :"https://fr.wikipedia.org/wiki/Singapour#/media/Fichier:Singapore_on_the_globe_(Southeast_Asia_centered)_zoom.svg"
+    
+   
+    },
+    
+    {
+    "name": "Slovakia",
+     
+    "capital": "Bratislava",
+         
+    "population": 5458827,
+         
+    "fr": "Slovaquie",
+    
+    "flag": "https://flagcdn.com/sk.svg",
+       
+    "embleme":"https://fr.wikipedia.org/wiki/Slovaquie#/media/Fichier:Coat_of_arms_of_Slovakia.svg",
+
+    "position" :"https://en.wikipedia.org/wiki/Slovakia#/media/File:EU-Slovakia.svg"
+    
+   
+    },
+    {
+    "name": "Slovenia",
+      
+    "capital": "Ljubljana",
+        
+    "population": 2100126,
+          
+    "fr": "Slovénie",
+    
+    "flag": "https://flagcdn.com/si.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Coat_of_arms_of_Slovenia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/84/EU-Slovenia.svg"
+    
+   
+    },
+    {
+    "name": "Solomon Islands",
+     
+    "capital": "Honiara",
+         
+    "population": 686878,
+           
+    "fr": "Îles Salomon",
+   
+    "flag": "https://flagcdn.com/sb.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/83/Coat_of_arms_of_the_Solomon_Islands.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/8a/Solomon_Islands_on_the_globe_%28Oceania_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Somalia",
+     
+    "capital": "Mogadishu",
+      
+    "population": 15893219,
+       
+    "fr": "Somalie",
+    
+    
+    "flag": "https://flagcdn.com/so.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Coat_of_arms_of_Somalia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/4c/Somalia_%28orthographic_projection%29.svg"
+    
+   
+    
+    },
+    {
+    "name": "South Africa",
+      
+    
+    "capital": "Pretoria",
+     
+    
+    "population": 59308690,
+        
+    "fr": "Afrique du Sud",
+   
+    
+    "flag": "https://flagcdn.com/za.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/fr/f/f7/Armoiries_de_l%27Afrique_du_Sud.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/6/6e/South_Africa_%28orthographic_projection%29.svg"
+    
+   
+    },
+
+    {
+    "name": "Korea (Republic of)",
+     
+    "capital": "Seoul",
+       
+    "population": 51780579,
+        
+    "fr": "Corée du Sud",
+    
+    "flag": "https://flagcdn.com/kr.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/96/Emblem_of_South_Korea.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/b1/Republic_of_Korea_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Spain",
+      
+    "capital": "Madrid",
+         
+    "population": 47351567,
+           
+    "fr": "Espagne",
+    
+    "flag": "https://flagcdn.com/es.svg",
+       
+    "embleme":"https://fr.wikipedia.org/wiki/Espagne#/media/Fichier:Escudo_de_Espa%C3%B1a_(mazonado).svg",
+
+    "position" :"https://en.wikipedia.org/wiki/Spain#/media/File:EU-Spain_(orthographic_projection).svg"
+    
+   
+    },
+    {
+    "name": "Sri Lanka",
+     
+    "capital": "Sri Jayawardenepura Kotte",
+            
+    "population": 21919000,
+           
+    "fr": "Sri Lanka",
+    
+    "flag": "https://flagcdn.com/lk.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Emblem_of_Sri_Lanka.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/9/96/Sri_Lanka_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Sudan",
+      
+    "capital": "Khartoum",
+         
+    "population": 43849269,
+        
+    "fr": "Soudan",
+    
+    "flag": "https://flagcdn.com/sd.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/b/b0/Emblem_of_Sudan.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/f8/Sudan_%28orthographic_projection%29_highlighted.svg"
+    
+   
+    },
+    {
+    "name": "South Sudan",
+  
+    "capital": "Juba",
+      
+    "population": 11193729,
+          
+    "fr": "Soudan du Sud",
+    
+    
+    "flag": "https://flagcdn.com/ss.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/28/Coat_of_arms_of_South_Sudan.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/fe/South_Sudan_hd_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Suriname",
+    
+    "capital": "Paramaribo",
+         
+    "population": 586634,
+          
+    "fr": "Surinam",
+    
+    "flag": "https://flagcdn.com/sr.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/6/6f/Coat_of_arms_of_Suriname.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/8/87/Suriname_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+
+    "name": "Eswatini",
+     
+    
+    "capital": "Mbabane",
+    
+    "population": 1160164,
+     
+    "fr": "Eswatini",
+   
+    "flag": "https://flagcdn.com/sz.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Coat_of_arms_of_Eswatini.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/c4/Location_Eswatini_AU_Africa.svg"
+    
+   
+    },
+    {
+    "name": "Sweden",
+      
+    "capital": "Stockholm",
+          
+    "population": 10353442,
+   
+    "fr": "Suède",
+    
+    "flag": "https://flagcdn.com/se.svg",
+       
+    "embleme":"https://en.wikipedia.org/wiki/Sweden#/media/File:Great_coat_of_arms_of_Sweden.svg",
+
+    "position" :"https://en.wikipedia.org/wiki/Sweden#/media/File:EU-Sweden_(orthographic_projection).svg"
+    
+   
+    },
+    {
+    "name": "Switzerland",
+     
+    "capital": "Bern",
+       
+    "population": 8636896,
+          
+    "fr": "Suisse",
+   
+    "flag": "https://flagcdn.com/ch.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Coat_of_Arms_of_Switzerland_%28Pantone%29.svg",
+
+    "position" :"https://en.wikipedia.org/wiki/Switzerland#/media/File:Europe-Switzerland.svg"
+    
+   
+    },
+    {
+    "name": "Syrian Arab Republic",
+      
+    "capital": "Damascus",
+         
+    "population": 17500657,
+        
+    "fr": "Syrie",
+   
+   
+    "flag": "https://flagcdn.com/sy.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/82/Coat_of_arms_of_Syria.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/1/11/Syria_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Taiwan",
+   
+    "capital": "Taipei",
+   
+    "population": 23503349,
+    
+    "fr": "Taïwan",
+  
+    "flag": "https://flagcdn.com/tw.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/8b/National_Emblem_of_the_Republic_of_China.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/c2/Taiwan_%28orthographic_projection%3B_southeast_Asia_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Tajikistan",
+     
+    "capital": "Dushanbe",
+           
+    "population": 9537642,
+         
+    "fr": "Tadjikistan",
+    
+    "flag": "https://flagcdn.com/tj.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblem_of_Tajikistan.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/a1/Tajikistan_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Tanzania, United Republic of",
+      
+    "capital": "Dodoma",
+          
+    "population": 59734213,
+          
+    "fr": "Tanzanie",
+   
+    "flag": "https://flagcdn.com/tz.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Coat_of_arms_of_Tanzania.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/3/3f/Tanzania_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Thailand",
+      
+    "capital": "Bangkok",
+           
+    "population": 69799978,
+          
+    "fr": "Thaïlande",
+   
+    "flag": "https://flagcdn.com/th.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Emblem_of_Thailand.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/6/6d/Thailand_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Timor-Leste",
+     
+    "capital": "Dili",
+   
+    "population": 1318442,
+      
+    "fr": "Timor oriental",
+    
+    "flag": "https://flagcdn.com/tl.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Coat_of_arms_of_East_Timor.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/bc/Timor_Leste_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Togo",
+ 
+    "capital": "Lomé",
+    
+    "population": 8278737,
+    
+    "fr": "Togo",
+   
+    "flag": "https://flagcdn.com/tg.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/2d/Armoiries_du_Togo.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/a/a5/Togo_on_the_globe_%28Africa_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Tokelau",
+      
+    "capital": "Fakaofo",
+     
+    "population": 1411,
+    
+    "fr": "Tokelau",
+    
+    "flag": "https://flagcdn.com/tk.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Badge_of_Tokelau.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/5/52/Tokelau_on_the_globe_%28Polynesia_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Tonga",
+      
+    "capital": "Nuku'alofa",
+      
+    "population": 105697,
+      
+    "fr": "Tonga",
+    
+    "flag": "https://flagcdn.com/to.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/43/Coat_of_arms_of_Tonga.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/ce/Tonga_on_the_globe_%28Polynesia_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Trinidad and Tobago",
+      
+    "capital": "Port of Spain",
+      
+    "population": 1399491,
+     
+    "fr": "Trinité et Tobago",
+    
+    "flag": "https://flagcdn.com/tt.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/a/a1/Coat_of_arms_of_Trinidad_and_Tobago.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/e/ed/Trinidad_and_Tobago_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Tunisia",
+    
+    "capital": "Tunis",
+   
+    "population": 11818618,
+   
+    "fr": "Tunisie",
+    
+    "flag": "https://flagcdn.com/tn.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/80/Coat_of_arms_of_Tunisia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/d/da/Tunisia_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Turkey",
+  
+    "capital": "Ankara",
+   
+    "population": 84339067,
+    
+    "fr": "Turquie",
+    
+    "flag": "https://flagcdn.com/tr.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Emblem_of_Turkey.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/d/dd/Turkey_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Turkmenistan",
+ 
+    "capital": "Ashgabat",
+    
+    "population": 6031187,
+   
+    "fr": "Turkménistan",
+    
+    "flag": "https://flagcdn.com/tm.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Emblem_of_Turkmenistan.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/b/ba/Turkmenistan_on_the_globe_%28Turkmenistan_centered%29.svg"
+    
+   
+    },
+    
+    {
+    "name": "Tuvalu",
+   
+    "capital": "Funafuti",
+   
+    "population": 11792,
+      
+    "fr": "Tuvalu",
+    
+    "flag": "https://flagcdn.com/tv.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/c9/Coat_of_arms_of_Tuvalu.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuvalu_on_the_globe_%28Polynesia_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Uganda",
+
+    "capital": "Kampala",
+   
+    "population": 45741000,
+     
+    "fr": "Ouganda",
+   
+    "flag": "https://flagcdn.com/ug.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Coat_of_arms_of_Uganda.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/1/1d/Uganda_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Ukraine",
+    
+    "capital": "Kyiv",
+    
+    "population": 44134693,
+ 
+    "fr": "Ukraine",
+    
+    "flag": "https://flagcdn.com/ua.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/9/9e/Ukraine_-_disputed_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "United Arab Emirates",
+     
+    "capital": "Abu Dhabi",
+       
+    "population": 9890400,
+   
+    "fr": "Émirats arabes unis",
+   
+    "flag": "https://flagcdn.com/ae.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Emblem_of_the_United_Arab_Emirates.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/cd/United_Arab_Emirates_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+   
+    "capital": "London",
+   
+    "population": 67215293,
+      
+    "fr": "Royaume-Uni",
+    
+    "flag": "https://flagcdn.com/gb.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/98/Royal_Coat_of_Arms_of_the_United_Kingdom.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/0/07/United_Kingdom_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "United States of America",
+   
+    "capital": "Washington, D.C.",
+        
+    "population": 329484123,
+      
+    "fr": "États-Unis",
+   
+    "flag": "https://flagcdn.com/us.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Greater_coat_of_arms_of_the_United_States.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/d/dc/USA_orthographic.svg"
+    
+   
+    },
+    {
+    "name": "Uruguay",
+   
+    "capital": "Montevideo",
+ 
+    "population": 3473727,
+
+    "fr": "Uruguay",
+    
+    "flag": "https://flagcdn.com/uy.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/91/Coat_of_arms_of_Uruguay.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/4/43/URY_orthographic.svg"
+    
+   
+    },
+    {
+    "name": "Uzbekistan",
+
+    "capital": "Tashkent",
+  
+    "population": 34232050,
+
+    "fr": "Ouzbékistan",
+
+    "flag": "https://flagcdn.com/uz.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/7/77/Emblem_of_Uzbekistan.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/5/54/UZB_orthographic.svg"
+    
+   
+    },
+    {
+    "name": "Vanuatu",
+       
+    "capital": "Port Vila",
+    
+    "population": 307150,
+  
+    "fr": "Vanuatu",
+ 
+    "flag": "https://flagcdn.com/vu.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Coat_of_arms_of_Vanuatu.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/d/d9/Vanuatu_on_the_globe_%28Polynesia_centered%29.svg"
+    
+   
+    },
+    {
+    "name": "Venezuela (Bolivarian Republic of)",
+     
+    "capital": "Caracas",
+        
+    "population": 28435943,
+        
+    "fr": "Venezuela",
+   
+    "flag": "https://flagcdn.com/ve.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/46/Coat_of_arms_of_Venezuela.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/5/5e/VEN_orthographic.svg"
+    
+   
+    },
+    {
+    "name": "Vietnam",
+     
+    "capital": "Hanoi",
+         
+    "population": 97338583,
+         
+    "fr": "Viêt Nam",
+    
+    "flag": "https://flagcdn.com/vn.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/a/a3/Emblem_of_Vietnam.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/2/28/Vietnam_%28orthographic_projection%29.svg"
+    
+   
+          
+    },
+   
+    {
+    "name": "Western Sahara",
+    
+    "capital": "El Aaiún",
+        
+    "population": 510713,
+        
+    "fr": "Sahara Occidental",
+    
+    "flag": "https://flagcdn.com/eh.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/4/40/Coat_of_arms_of_the_Sahrawi_Arab_Democratic_Republic.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/e/eb/Western_Sahara_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Yemen",
+     
+    "capital": "Sana'a",
+       
+    "population": 29825968,
+        
+    "fr": "Yémen",
+
+    "flag" : "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/c/c3/Emblem_of_Yemen_%282%29.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/f/f1/Yemen_%28orthographic_projection%29.svg"
+    
+   
+    
+    },
+    {
+    "name": "Zambia",
+     
+    "capital": "Lusaka",
+        
+    "population": 18383956,
+        
+    "fr": "Zambie",
+   
+    "flag": "https://flagcdn.com/zm.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/2/28/Coat_of_arms_of_Zambia.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/2/26/Zambia_%28orthographic_projection%29.svg"
+    
+   
+    },
+    {
+    "name": "Zimbabwe",
+    
+    "capital": "Harare",
+     
+    "population": 14862927,
+       
+    "fr": "Zimbabwe",
+    
+    "flag": "https://flagcdn.com/zw.svg",
+       
+    "embleme":"https://upload.wikimedia.org/wikipedia/commons/0/01/Coat_of_arms_of_Zimbabwe.svg",
+
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/5/50/Zimbabwe_%28orthographic_projection%29.svg"
+    
+   
+    }
+    ]
